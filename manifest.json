@@ -1,0 +1,11 @@
+{
+  "parts": [
+    "game.zip.part01",
+    "game.zip.part02",
+    "game.zip.part03",
+    "game.zip.part04",
+    "game.zip.part05"
+  ],
+  "sha256": "4F7343B6B3F17C232B72032DB349624C91334A790B46DB91789716BB4051521D",
+  "exeSha256": "EA90CC3B87DF3C62D93C51AB622237FF438943E802974CD875DD23D2DFA05AD5"
+}
